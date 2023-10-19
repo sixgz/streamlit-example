@@ -1,6 +1,3 @@
-altair
-pandas
 streamlit
 openai
-llama-index
-nltk
+langchain
